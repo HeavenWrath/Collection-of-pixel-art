@@ -2,7 +2,7 @@
 
 There is a bunch of pixel sprites maded in Aseprite.
 
-##Preview
+## Preview
 ![Cats](Cats.gif)
 ![Goblin passive](Goblin_passive.gif)
 ![Goblin's transformation](Goblin_transformation.gif)
